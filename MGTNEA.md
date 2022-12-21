@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->create component": {
+    "prefix": "component",
+    "body": [
+        "class $1 extends React.Component {",
+        "",
+        "\trender() {",
+        "\t\treturn ($2);",
+        "\t}",
+        "",
+        "}". Los cok 
